@@ -20,7 +20,10 @@
       "**/core.python*": true,
       "**/CVS": true
    },
-   "files.autoSave": "off",
+   "files.autoSave": "afterDelay",
    "workbench.colorTheme": "light",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "editor.suggest.preview": true,
+   "workbench.editor.enablePreviewFromCodeNavigation": true,
+   "workbench.editor.enablePreviewFromQuickOpen": true
 }
